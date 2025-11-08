@@ -24,7 +24,8 @@ Strategic engineer at the intersection of software development and adversarial s
 I combine full-stack engineering discipline with offensive research and reverse engineering to design resilient systems and responsibly evaluate their weaknesses.
 
 🎓 **Education:** B.Sc. in Computer Science (Islamic University, Faculty of Science & Arts)  
-💼 **Experience:** Internship in cybersecurity, full-stack dev & networking (JA Square)  
+💼 **Experience:** Internship in Cybersecurity, Full-Stack Development & Networking (JA Square)
+    Training in Networking (Port de Beyrouth) 
 
 ---
 
