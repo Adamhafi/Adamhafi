@@ -6,12 +6,12 @@
 
 <!-- Profile views counter + trophies -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=7-c&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Adamhafi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/7-c">
-    <img src="https://github-profile-trophy.vercel.app/?username=7-c&theme=radical&no-frame=true&margin-w=5" alt="GitHub Trophies" />
+  <a href="https://github.com/Adamhafi">
+    <img src="https://github-profile-trophy.vercel.app/?username=Adamhafi&theme=radical&no-frame=true&margin-w=5" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -98,11 +98,11 @@ BlackStrike is a powerful Cross-Site Scripting (XSS) detection and exploitation 
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=7-c&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Adamhafi&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7-c&langs_count=8&layout=compact&theme=radical&cache_seconds=60" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamhafi&langs_count=8&layout=compact&theme=radical&cache_seconds=60" alt="Top Languages" />
 </p>
 
 <p align="center">
