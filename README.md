@@ -6,12 +6,12 @@
 
 <!-- Profile views counter + trophies -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Adamhafi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Microsoft&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Adamhafi">
-    <img src="https://github-profile-trophy.vercel.app/?username=Adamhafi&theme=radical&no-frame=true&margin-w=5" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Microsoft&theme=radical&no-frame=true&margin-w=5" alt="GitHub Trophies" />
   </a>
 </p>
 
